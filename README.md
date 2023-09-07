@@ -41,7 +41,7 @@ How to run tests
 
 1) Unpack all archive content with main folder
    
-2) Unpack execution file from downloaded driver archive in the folder from 1st step or use --driver-path <path\to\driver> if you have it installed in other directory
+2) Unpack execution file from downloaded driver archive in the folder from 1st step or use --driver-path if you have it installed in other directory
 
 3) Run CMD, link the directory and trigger python module
 
