@@ -33,7 +33,7 @@ Download driver that compare to your browser and it's version
 How to run tests
 ----------------
 
-1) Create new folder in your system and unpack in the folder all archive content
+1) unpack all archive content with main folder
    
 2) Unpack execution file from downloaded driver archive in the folder from 1st step or use --driver-path <path\to\driver> if you have it installed in other directory
 
