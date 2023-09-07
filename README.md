@@ -6,7 +6,7 @@ Review
 
 Simple example of Page Object Pattern (selemium + pytest). No custom helpers included.
 
-requirements
+Requirements
 ------------
 
 pytest-selenium==2.0.1
@@ -25,7 +25,7 @@ You can use CMD and link requirements.txt:
 pip install -r requirements
 ```
 
-download driver
+Download driver
 ---------------
 
 Download driver that compare to your browser and it's version
@@ -33,7 +33,7 @@ Download driver that compare to your browser and it's version
 How to run tests
 ----------------
 
-1) unpack all archive content with main folder
+1) Unpack all archive content with main folder
    
 2) Unpack execution file from downloaded driver archive in the folder from 1st step or use --driver-path <path\to\driver> if you have it installed in other directory
 
