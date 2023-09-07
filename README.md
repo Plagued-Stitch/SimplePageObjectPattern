@@ -10,11 +10,17 @@ Requirements
 ------------
 
 pytest-selenium==2.0.1
+
 pytest==5.2.2
+
 pytest-base-url==1.4.2
+
 pytest-html==1.14.0
+
 pytest-metadata==1.10.0
+
 pytest-variables==1.9.0
+
 selenium==3.0.2
 
 NOTE: install "pytest-selenium" first, because this package install all pytest module packages but with latest versions, then override other packages
