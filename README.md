@@ -46,7 +46,7 @@ How to run tests
 3) Run CMD, link the directory and trigger python module
 
 ```bash
-pytest -v --driver <Chrome/Firefox/Etc> --driver-path <path\to\driver>
+pytest -v --driver <Chrome || Firefox || Etc> --driver-path <path\to\driver>
 ```
 
 Additional credits
