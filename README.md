@@ -19,7 +19,7 @@ selenium==3.0.2
 
 NOTE: install "pytest-selenium" first, because this package install all pytest module packages but with latest versions, then override other packages
 
-You can use CMD and link requirements.txt(requirements.txt):
+You can use CMD and link requirements.txt:
 
 ```bash
 pip install -r requirements
@@ -46,4 +46,4 @@ pytest -v --driver <Chrome/Firefox/Etc> --driver-path <path\to\driver>
 Additional credits
 ------------------
 
-Pytest configuration file based on @TimurNurlygayanov(https://github.com/TimurNurlygayanov) conftest.py
+Pytest configuration file based on @TimurNurlygayanov (https://github.com/TimurNurlygayanov) conftest.py
